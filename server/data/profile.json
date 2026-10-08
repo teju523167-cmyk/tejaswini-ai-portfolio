@@ -1,0 +1,125 @@
+{
+  "name": "Tejaswini Bandla",
+  "headline": "2nd Year CSE (AI & ML) Student",
+  "tagline": "Building practical foundations in programming, data structures, AI/ML and full-stack development through academic and hands-on learning.",
+  "resume": "/resume.pdf",
+  "education": {
+    "degree": "B.Tech \u2014 Computer Science and Engineering (AI & ML)",
+    "college": "VNR VJIET, Hyderabad",
+    "period": "2025\u20132029",
+    "year": "2nd Year",
+    "cgpa": "9.68"
+  },
+  "about": [
+    "I am a second-year CSE (AI & ML) student interested in practical software development and useful AI-powered applications.",
+    "My current learning focus includes Python and DSA, JavaScript, backend development with Node.js and Express, MongoDB, React and AI integration.",
+    "I learn by combining academic work, technical activities, peer learning and small project-based experiments."
+  ],
+  "skills": {
+    "Programming": [
+      "Python",
+      "Java",
+      "C",
+      "JavaScript"
+    ],
+    "DSA & Problem Solving": [
+      "Data Structures & Algorithms",
+      "Problem Solving"
+    ],
+    "Web Development": [
+      "HTML",
+      "CSS",
+      "React",
+      "Node.js",
+      "Express.js"
+    ],
+    "Database & Tools": [
+      "MongoDB",
+      "Mongoose",
+      "Git",
+      "GitHub",
+      "VS Code",
+      "Postman"
+    ],
+    "AI / ML": [
+      "AI Integration"
+    ]
+  },
+  "projects": [
+    {
+      "name": "Web Forge AI",
+      "status": "AI / Full-Stack",
+      "description": "A web-based system for students to report hostel maintenance issues, track request status, and manage issue resolution.",
+      "technologies": [
+        "React",
+        "Node.js",
+        "Express.js",
+        "AI Integration"
+      ],
+      "repository": "https://github.com/teju523167-cmyk"
+    }
+  ],
+  "certifications": [
+    {
+      "title": "NPTEL Silver Certificate",
+      "subtitle": "Programming, Data Structures And Algorithms Using Python",
+      "description": "Silver certification earned through the NPTEL course."
+    }
+  ],
+  "coding_profiles": [
+    {
+      "name": "CodeChef",
+      "username": "cloud_grape_89",
+      "detail": "Rating 1204 \u00b7 Highest 1209",
+      "url": "https://www.codechef.com/users/cloud_grape_89"
+    },
+    {
+      "name": "HackerRank",
+      "username": "teju523167",
+      "detail": "Bronze badges",
+      "url": "https://www.hackerrank.com/teju523167"
+    },
+    {
+      "name": "LeetCode",
+      "username": "Tejaswini-B",
+      "detail": "Problem-solving practice",
+      "url": "https://leetcode.com/u/Tejaswini-B/"
+    }
+  ],
+  "links": {
+    "github": "https://github.com/teju523167-cmyk",
+    "linkedin": "https://www.linkedin.com/in/REPLACE_WITH_YOUR_LINKEDIN_USERNAME/"
+  },
+  "contact": {
+    "email": "teju523167@gmail.com"
+  },
+  "contests": [
+    {
+      "title": "CodeFrenzy \u2014 Turing Hut",
+      "label": "Technical Selection",
+      "description": "Placed 13th in the CodeFrenzy technical selection round among participating students."
+    },
+    {
+      "title": "Quantumard Contest",
+      "label": "Technical Selection",
+      "description": "Qualified for the 2nd / presentation round."
+    },
+    {
+      "title": " Web Forge Hackathon",
+      "label": "Hackathon",
+      "description": "Participated in work involving a hostel maintenance tracking solution."
+    }
+  ],
+  "community": [
+    {
+      "title": "Street Cause",
+      "role": "Coordinator",
+      "description": "Participating in student-led activities and coordination work."
+    },
+    {
+      "title": "Turing Hut",
+      "role": "Student \u00b7 Peer-to-Peer Learning",
+      "description": "Engaging in technical learning and peer-to-peer coding sessions."
+    }
+  ]
+}
